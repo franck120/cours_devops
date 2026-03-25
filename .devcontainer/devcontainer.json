@@ -16,7 +16,7 @@
     },
     // Docker-in-Docker : rend docker et docker compose disponibles dans le Codespace
     "ghcr.io/devcontainers/features/docker-in-docker:2": {
-      "moby": true,
+      "moby": false,
       "dockerDashComposeVersion": "v2"
     }
   },
